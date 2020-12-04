@@ -22,3 +22,13 @@ Part of Gostack Bootcamp at [RocketSeat](https://rocketseat.com.br).
 ## 🖥 Tests
 - [ ] should be able to list the food plates
 - [ ] should be able to list the food plates filtered by category
+- [ ] should be able to list the food plates filtered by name search
+- [ ] should be able to navigate to the food details page
+- [ ] should be able to list the favorite food plates
+- [ ] should be able to list the orders
+- [ ] should be able to list the food
+- [ ] should be able to increment food quantity
+- [ ] should be able to decrement food quantity
+- [ ] should not be able to decrement food quantity below than 1
+- [ ] should be able to increment an extra item quantity
+- [ ] should be able to decrement an extra item quantity
