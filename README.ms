@@ -20,5 +20,5 @@ Challenge app #11 - GoRestaurant Mobile
 Part of Gostack Bootcamp at [RocketSeat](https://rocketseat.com.br).
 
 ## 🖥 Tests
-- [ ] - should be able to list the food plates
-- [ ] - should be able to list the food plates filtered by category
+- [ ] should be able to list the food plates
+- [ ] should be able to list the food plates filtered by category
